@@ -1,5 +1,5 @@
 # PVA4 - Programování a vývoj aplikací
-## Lekce 11: Projekt - Login
+## Lekce 11: Login
 
 ## Obsah
 
