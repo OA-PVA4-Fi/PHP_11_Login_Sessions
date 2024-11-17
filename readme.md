@@ -1,9 +1,10 @@
 # PVA4 - Programování a vývoj aplikací
-## Lekce 11: Login
+## Lekce 11: Login, Sessions, Email
+
 
 ## Obsah
 
-- Pro design aplikace můžete využít své stávající layouty.
+- Pro design aplikace můžete využít své stávající layouty z Educode.
 - Cvičení realizujte bez využití databází.
 
 ### 1
