@@ -44,3 +44,6 @@ kde:
 ### 3
 - Vytvořte stránku historie výpočtů.
 - na stránce se budou zobrazovat všechny historické kalkulace, které uživatel vyzkoušel.
+
+### 4
+- Při chybném pokusu o přihlášení, zašlete uživateli naformátovaný html email o neplatném pokusu.
